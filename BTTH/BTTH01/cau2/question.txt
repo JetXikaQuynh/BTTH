@@ -1,0 +1,34 @@
+Câu 1: CPU là gì?  
+A. Bộ nhớ trong  
+B. Thiết bị nhập dữ liệu  
+C. Bộ xử lý trung tâm  
+D. Thiết bị xuất dữ liệu  
+Đáp án: C
+
+Câu 2: Phần mềm nào sau đây là hệ điều hành?  
+A. Microsoft Word  
+B. Linux  
+C. Photoshop  
+D. Google Chrome  
+Đáp án: B
+
+Câu 3: Trong hệ thống máy tính, thiết bị nào thuộc nhóm thiết bị đầu vào?  
+A. Máy in  
+B. Bàn phím  
+C. Màn hình  
+D. Loa  
+Đáp án: B
+
+Câu 4: Đơn vị đo dung lượng của bộ nhớ là gì?  
+A. MHz  
+B. GB  
+C. DPI  
+D. Pixel  
+Đáp án: B
+
+Câu 5: Internet Explorer là gì?  
+A. Một loại phần cứng  
+B. Một trình duyệt web  
+C. Một ngôn ngữ lập trình  
+D. Một hệ điều hành  
+Đáp án: B
